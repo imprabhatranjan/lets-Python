@@ -7,4 +7,4 @@ print(sys.stdout)
 
 import pygame
 
-print (pygame.ver)
+print(pygame.ver)

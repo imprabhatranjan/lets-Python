@@ -1,6 +1,6 @@
-import random # For generating random numbers
-import sys #To exit the program
-import pygame #pip install pygame
+import random  # For generating random numbers
+import sys  #To exit the program
+import pygame  #pip install pygame
 from pygame.locals import * 
 # Global Variables for the game
 FPS = 32
